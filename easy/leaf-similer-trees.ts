@@ -1,5 +1,5 @@
 // Problem - Leaf-Similar Trees (Eazy) ✅
-// Link - https://leetcode.com/problems/leaf-similar-trees/description/
+// Link - https://leetcode.com/problems/leaf-similar-trees/
 
 // Complexity Analysis
 // Time Complexity: O(T1 + T2), where T1,T2 are the lengths of the given trees.
